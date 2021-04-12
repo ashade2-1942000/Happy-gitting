@@ -8,7 +8,9 @@ Here is an example of how to add images:
 
 Here is a cute dolphin:
 
-![A cute dolphi](cute-dolphin.jpeg)
+![A cute dolphin](cute-dolphin.jpeg)
+
+![A happy dolphin](happy-dolphin.jpg)
 
 I love dolphins but I haven't figure out a way to have one at home
 yet...  But we'll get there!
